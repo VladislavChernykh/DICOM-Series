@@ -14,6 +14,7 @@ This tool can be useful to create your own image stack with DICOM easily.
 3) Change metadata (slice number, greyscale, position etc.) and save as .dcm file
 
 **Notice:**
+
 Due to confidential information the real human tissues pics was replaced by muscle tissue pic distributed for free and rotated.
 
 For your purpose you can use any pictures, but be aware to check extension in the code (.png by default)
